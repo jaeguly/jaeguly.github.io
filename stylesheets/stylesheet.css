@@ -409,8 +409,11 @@ top: 3px;
   float: left;
   margin-bottom: 15px;
 }
+#footer_wrap ul {
+  list-style: none;
+}
 .footer-col-1 {
-  width: 270px;
+  width: 200px;
   width: -webkit-calc(35% - 10px);
   width: -moz-calc(35% - 10px);
   width: -o-calc(35% - 10px);
@@ -419,7 +422,7 @@ top: 3px;
 }
 
 .footer-col-2 {
-  width: 175px;
+  width: 200px;
   width: -webkit-calc(23.125% - 10px);
   width: -moz-calc(23.125% - 10px);
   width: -o-calc(23.125% - 10px);
@@ -427,7 +430,7 @@ top: 3px;
   margin-right: 10px;
 }
 .footer-col-3 {
-  width: 335px;
+  width: 200px;
   width: -webkit-calc(41.875%);
   width: -moz-calc(41.875%);
   width: -o-calc(41.875%);
