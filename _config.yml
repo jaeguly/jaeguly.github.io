@@ -1,0 +1,12 @@
+# Site settings
+title: Andrew Jang's pages
+email:
+description: Private Site
+baseurl:
+url:
+twitter_username: jaeguly
+github_username:  jaeguly
+
+# Build settings
+markdown: kramdown
+permalink: pretty
