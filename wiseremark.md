@@ -1,3 +1,9 @@
+---
+layout: page
+title: Wise Remarks
+permalink: /wiseremark/
+---
+
 ### 여섯 가지 미덕과 폐단
 
 ```

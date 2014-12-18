@@ -1,3 +1,9 @@
+---
+layout: page
+title: User eXperience
+permalink: /ux/
+---
+
 ### Mika Hiltunen 의 사용자 경험에 대한 정의
 
 According to Hiltunen et al., (2002) the components of user experience can be grouped into
