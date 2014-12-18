@@ -405,7 +405,7 @@ top: 3px;
   margin: 0 auto;
   zoom: 1;
 }
-.site-footer .column {
+#footer_wrap .inner .column {
   float: left;
   margin-bottom: 15px;
 }
